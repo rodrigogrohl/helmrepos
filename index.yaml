@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  questcode-frontend:
+  - apiVersion: v1
+    created: 2018-08-12T16:20:04.6964388-03:00
+    digest: 4c5524fd5039b4e7a09b74eff8b104ac3178115324ff5c68be1eea3d6a870d6f
+    name: questcode-frontend
+    urls:
+    - questcode-frontend-0.1.2.tgz
+    version: 0.1.2
+generated: 2018-08-12T16:20:04.696236389-03:00
