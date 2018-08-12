@@ -18,4 +18,3 @@ $ helm search questcode
 Or use token:  
 `helm repo add sample 'https://MY_PRIVATE_TOKEN@rodrigogrohl/repos/master'
 
-My read gitlab access token: 2ZVBxXXPzkoN_xEYKG2z  
